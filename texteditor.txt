@@ -3,3 +3,5 @@ You get back here by calling the nano function and file name again.
 Still can't move cursor by clicking though... must Google.
 
 The pencil button on the upper right allows you to edit this text.
+
+This line was edited by the owner.
