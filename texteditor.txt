@@ -5,3 +5,5 @@ Still can't move cursor by clicking though... must Google.
 The pencil button on the upper right allows you to edit this text.
 The collaborator added a line. 
 But so did I - must reconcile after pulling.
+
+This was only added within the experimental branch.
